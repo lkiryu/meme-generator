@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    background: rgb(103, 34, 128);
+    background: linear-gradient(90deg, rgba(103, 34, 128, 1) 0%, rgba(166, 38, 211, 1) 100%);
+    padding: 20px 30px;
+}
+
+.logo{
+    width: 30px;
+    margin-right: 5px;
+}
+
+.header .title{
+    color: #FFFFFF;
+    font-size: 20px;
+}
